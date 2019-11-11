@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ReactiveKit",
+        "repositoryURL": "https://github.com/DeclarativeHub/ReactiveKit.git",
+        "state": {
+          "branch": null,
+          "revision": "318d99599469a53b0e0fcf0eb975dba75501ede6",
+          "version": "3.14.2"
+        }
+      },
+      {
+        "package": "ReSwift",
+        "repositoryURL": "https://github.com/ReSwift/ReSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b92762b5aa85c5e94053d942fbd37124ee939e5b",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
